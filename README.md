@@ -29,4 +29,3 @@ you do not need to check anything on the next few pages, keep clicking "next" un
 ![image](https://user-images.githubusercontent.com/110176257/181589933-fe251cf8-1bca-41bf-ae03-a328662f7791.png)
 
 Check "run pycharm community edition" on the final page to continue with the Python Introduction file in this repository.
-
