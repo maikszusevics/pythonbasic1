@@ -109,4 +109,3 @@ print(type(address))
 print(type(salary))
 print(type(course))
 ```
-
