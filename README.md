@@ -28,4 +28,30 @@ you do not need to check anything on the next few pages, keep clicking "next" un
 
 ![image](https://user-images.githubusercontent.com/110176257/181589933-fe251cf8-1bca-41bf-ae03-a328662f7791.png)
 
-Check "run pycharm community edition" on the final page to continue with the Python Introduction file in this repository.
+Check "run pycharm community edition" on the final page
+
+### pycharm setup
+
+to set up a pycharm project, select new project under file
+
+![image](https://user-images.githubusercontent.com/110176257/181617784-5a621bb8-af07-42a9-a468-e1ff84a83ef5.png)
+
+from here you will need to select where you want this project to be saved and what the folder will be called.
+Once the location is set you will have to setup the interpereter you downloaded from the microsoft store earlier, to do this you must click "add interpreter"
+![image](https://user-images.githubusercontent.com/110176257/181618764-f300662d-9dda-465e-bef2-122b362b52af.png)
+
+select the version of python you downloaded from "base interpreter"
+
+![image](https://user-images.githubusercontent.com/110176257/181620000-96fabc02-c10f-4cda-a32f-77274dbea20e.png)
+
+click "ok" and now it will allow you to create the project
+
+once you've created the project you can right click on the project folder, to go new, and select python file
+
+![image](https://user-images.githubusercontent.com/110176257/181620168-e71db0b6-ad59-4128-b25c-aaafa4a9bdec.png)
+
+this will open a text box asking you to name your new python file, give it a name and press enter 
+
+![image](https://user-images.githubusercontent.com/110176257/181620724-5c0d64e7-c522-410b-bcaa-374706f94ced.png)
+
+now you have set up pycharm and can start coding.
