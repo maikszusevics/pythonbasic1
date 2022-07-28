@@ -22,7 +22,7 @@ name = "maiks"
 age = 20
 salary = 13.37
 ```
-in the code above, three different types of data are stored in three seperate variables. The name variable is storing a string, which is a series of characters. The age variable is storing a integer, which is a whole number. And the salary variable is storing a float, which is a number with decimal places.
+in the code above, three different types of data are stored in three seperate variables. The name variable is storing a string, which is a series of characters. The age variable is storing a integer, which is a whole number. And the salary variable is storing a float, which is a number with decimal places. There is also a fourth data type used by variables which is boolean true or false values represented by 1 and 0 respectively.
 This can be demonstrated by adding "type" whenever we go to print the variable. 
 ```
 print(name)
