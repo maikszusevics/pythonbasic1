@@ -30,4 +30,3 @@ you do not need to check anything on the next few pages, keep clicking "next" un
 
 Check "run pycharm community edition" on the final page to continue with the Python Introduction file in this repository.
 
-
