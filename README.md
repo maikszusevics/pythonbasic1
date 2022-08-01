@@ -55,3 +55,34 @@ this will open a text box asking you to name your new python file, give it a nam
 ![image](https://user-images.githubusercontent.com/110176257/181620724-5c0d64e7-c522-410b-bcaa-374706f94ced.png)
 
 now you have set up pycharm and can start coding.
+
+
+# Data types and Operators
+## Two types of operators
+### Arithmetic
+- ` + - * / `
+- `+` adds two operands (var) together
+- `-` subtracts two operands (var) 
+- `*` multiplies two operands together
+- `/` divides two operands
+
+
+
+### Comparison Operators
+- `>` greater than `a > b`
+- `<` less than 
+- `==` equals
+- `!=` 
+- `>=` 
+- `<=`
+
+```
+a = 4
+b = 2
+print(a>b)# true
+print(a<b)# false
+print(a==b)# false
+print(a!=b)# true
+
+print(a * b) # 8
+```
