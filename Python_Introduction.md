@@ -156,3 +156,31 @@ print(greeting.isdigit())   # is it only numbers (boolean)
 print(greeting.endswith("!"))   # does it end with !
 print(greeting.startswith("joe")) # does it start with joe 
 ```
+#### strings concatenation casting
+- String indexing 
+- `Hello World`
+- index in python starts with 0 
+
+- hello world!
+- 01234567891011
+
+```
+greeting = "Hello World!"
+        #   01234567891011
+print(len(greeting))
+# slicing
+print(greeting[-5])
+print(greeting[:5])
+
+# print only world in print statement using slicing
+
+print(greeting[6:11])
+
+# print 4th letter from left to right
+# print 7th letter from right to left
+# print 6th letter from left to right
+
+print(greeting[3])
+print(greeting[-7])
+print(greeting[6])
+```
