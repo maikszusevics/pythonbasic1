@@ -184,3 +184,26 @@ print(greeting[3])
 print(greeting[-7])
 print(greeting[6])
 ```
+#### more methods
+
+```
+examplestring = "jame                                           "
+print(len(examplestring)) #length is 47 because spaces
+
+# strip()
+print(len(examplestring.strip())) #length is 4 because strip
+
+# welcome user with their name and welcome messages - name & message must start with capital
+example_text = "heres some texT With a lot of text"
+print(example_text.count("text"))
+
+# find a method to bring the statement in capital/small letters then first letter capital
+
+print(example_text.capitalize()) #capitalises first letter
+print(example_text.swapcase()) #swaps lowercase/capital
+print(example_text.lower()) # prints in all lowercase
+
+# how to replace text within a string
+
+print(example_text.replace("some", "this")) # replaces "some" with "this"
+```
