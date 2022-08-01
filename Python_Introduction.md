@@ -140,3 +140,18 @@ print(a!=b)# true
 
 print(a * b) # 8
 ```
+
+### functions
+```greeting = "hello world!"
+
+# what options are available in python's built in library
+
+# if we wanted to check if the letters are in string
+print(greeting.isalpha()) # true or false (no numbers no spaces)
+
+# is it in lowercase or uppercase
+
+print(greeting.islower())  # is it all lowercase (boolean)
+print(greeting.isdigit())   # is it only numbers (boolean)
+print(greeting.endswith("!"))   # does it end with !
+print(greeting.startswith("joe")) # does it start with joe ```
