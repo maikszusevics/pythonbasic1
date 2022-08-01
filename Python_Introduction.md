@@ -154,4 +154,5 @@ print(greeting.isalpha()) # true or false (no numbers no spaces)
 print(greeting.islower())  # is it all lowercase (boolean)
 print(greeting.isdigit())   # is it only numbers (boolean)
 print(greeting.endswith("!"))   # does it end with !
-print(greeting.startswith("joe")) # does it start with joe ```
+print(greeting.startswith("joe")) # does it start with joe 
+```
